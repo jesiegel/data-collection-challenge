@@ -1,1 +1,2 @@
 # data-collection-challenge
+In this challenge, I performed web-scraping on two websites to extract information via automated browsing with Splinter and HTML parsing with Beautiful Soup. For the first website, I scraped article titles alond with the article preview and put them into a list of dictionaries. The second website was Mars weather data. I scraped the rows and created my own dataframe of the scraped data. After, I analyzed the dataframe using Pandas functions.
